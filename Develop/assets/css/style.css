@@ -86,20 +86,11 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-a {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+/*condensed classes to benefits-a to reduce redundancy*/ 
 
 h3 {
     margin-bottom: 10px;
