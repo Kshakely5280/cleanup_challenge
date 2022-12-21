@@ -161,18 +161,10 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+img {
     max-height: 200px;
 }
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
+/* deleted redundant class ID's tied to image elements*/
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
