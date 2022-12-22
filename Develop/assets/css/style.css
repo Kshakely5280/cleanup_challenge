@@ -15,6 +15,10 @@ body {
     color: #ffffff;
 }
 
+.links {
+      float: right;
+ }
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
