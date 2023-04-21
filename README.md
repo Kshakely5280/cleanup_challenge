@@ -1,7 +1,7 @@
 # HTML Semantics
 ![Github license](https://img.shields.io/badge/license-Other-blue.svg)
 #### Description
-This challenge was to refactor existing code without changing the visual look of the website. by incoorperating HTML Semantics you can increase the accessability of your website which is increasingly important for businesses. This allows people with disabilities to access your website using assistive technologies. By removing the excessive div elements and replacing them with the appropriate html tag we are increasing user accessability.
+This challenge was to refactor existing code without changing the visual look of the website. By incoorperating HTML Semantics you can increase the accessability of your website which is increasingly important for businesses. This allows people with disabilities to access your website using assistive technologies. By removing the excessive div elements and replacing them with the appropriate html tag we are increasing user accessability.
 ## Table Of Contents:
 * [Installation Instructions](#install)
 * [Application Usage](#usage)
